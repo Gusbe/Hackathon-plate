@@ -15,6 +15,15 @@ body {
   background-color: #F7F7F7;
 }
 
+header {
+  background-color: #F7F7F7;
+}
+
+.logo {
+  height: 70px;
+  margin: 10px 25px 5px 25px;
+}
+
 h1 {
   font-size: 35px;
 }
@@ -56,20 +65,29 @@ h1 {
 .button {
   color: white;
   background-color:#78BF3B;
-  padding: 10px 25px;
-  border-radius: 25px;
+  padding: 10px 55px;
+  border-radius: 10px;
   border: 1px solid rgb(76, 120, 37);
   font-weight: 800;
   text-decoration: none;
-  margin-top: 110px;
-  
 
+}
+
+.light{
+  height: 100px;
+  width: auto;
+}
+.samples {
+  margin-bottom: 40px;
 }
 
 .product-information {
   width: 500px;
   margin: 50px 100px 20px;
 }
+
+
+
 
 
 
@@ -81,7 +99,8 @@ h1 {
 
 .benefit {
   width: 300px;
-  border: 1px solid red;
   margin-top: 50px;
   text-align: center;
+  /* color: #2F0F25; */
+  color: #3c2059;
 }
