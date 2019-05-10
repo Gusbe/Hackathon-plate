@@ -104,3 +104,18 @@ h1 {
   /* color: #2F0F25; */
   color: #3c2059;
 }
+
+
+@media(max-width: 950px){
+  .product-information {
+    width: 450px;
+    margin: 50px 50px 20px;
+  }
+}
+@media(max-width: 840px){
+  .benefits-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
