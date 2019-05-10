@@ -1,12 +1,8 @@
-# Hackathon-plate 2019
+# Bberri
 
-> Internal Ironhack Barcelona Hackathon (UX/UI + WebDev)
+> Landing page to promote a new blueberry active drink.
+> The main action is to get data from interested people to send them free samples.
 
-## How to use
-
-- Fork to your github account
-- Use this file to describe your project, plan, take notes, todos, etc...
-- Have fun
 
 ### Files included:
 
@@ -17,3 +13,8 @@
 ### Folders included:
 
   - `./assets` (add images, fonts, etc...)
+
+### Presentation link:
+
+[Presentation] (https://docs.google.com/presentation/d/1OXZyUWCGSIq6j-KcfwrGl5VcS3KlPvfTMyjJX_VIrUI)
+
